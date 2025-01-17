@@ -6,6 +6,6 @@
 - 📫 How to reach me ...
 
 <!---
-Welt-Young/Welt-Young is a sepcial repository beacause its `README.md` (this file) appears on your Github profile.
+Welt-Young/Welt-Young is a ✨ sepcial ✨ repository beacause its `README.md` (this file) appears on your Github profile.
 You can click the Preview link to take a look at your changes.
 --->
